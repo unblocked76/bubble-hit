@@ -1,0 +1,21 @@
+{
+    "how_to_play_content": "Your goal is to clear all the bubbles from the board, scoring as many points as possible! Aim and shoot down groups of 3 or more bubbles that are the same color. The more bubbles you take down with a single shot, the more points you'll score. If you fail to clear any bubbles, you'll receive a foul. After a several fouls, a new line of bubbles will appear at the top of the board. The game will end either when you've cleared the board or the bubbles have reached the bottom of the board. ",
+    "score": "SCORE:",
+    "bonus": "BONUS:",
+    "total_score": "TOTAL SCORE:",
+    "statistics": "STATISTICS",
+    "wins": "WINS:",
+    "losses": "LOSSES",
+    "losses_": "LOSSES:",
+    "winning_percentage": "WINNING PERCENTAGE:",
+    "win": "WIN",
+    "options": "OPTIONS",
+    "background_color": "BACKGROUND COLOR",
+    "sound": "SOUND",
+    "restart": "RESTART",
+    "how_to_play": "HOW TO PLAY",
+    "ok": "OK",
+    "cancel": "CANCEL",
+    "reset_data": "RESET DATA",
+    "more_games": "More Games"
+}

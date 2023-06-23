@@ -1,0 +1,30 @@
+{"frames": [
+
+{
+	"filename": "howToContent.png",
+	"frame": {"x":5,"y":5,"w":609,"h":332},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":609,"h":332},
+	"sourceSize": {"w":609,"h":332},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "menu_border.png",
+	"frame": {"x":5,"y":341,"w":508,"h":394},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":508,"h":394},
+	"sourceSize": {"w":508,"h":394},
+	"pivot": {"x":0.5,"y":0.5}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "atlas1x2.png",
+	"format": "RGBA8888",
+	"size": {"w":1024,"h":1024},
+	"scale": "0.5",
+	"smartupdate": "$TexturePacker:SmartUpdate:f02b31d1036406dd78042cf45b3cfe42:76874a42b26b31af02b9f820823e84cd:d25e21380319d8d890666995c611b05b$"
+}
+}
